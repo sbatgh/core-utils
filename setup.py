@@ -7,7 +7,7 @@ setup(
     name='dicttools',
     version=__version__,
 
-    url='https://github.com/sbatgh/core-utils/dicttools.git',
+    url='https://github.com/sbatgh/core-utils/dicttools',
     author='sbatgh',
     author_email='',
 
